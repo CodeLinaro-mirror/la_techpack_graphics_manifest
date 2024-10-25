@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="GRAPHICS.LA.14.0" sync-j="8"/>
+  <project name="clo/la/platform/vendor/qcom/opensource/graphics-kernel" path="vendor/qcom/opensource/graphics-kernel" revision="4bd3013b1478ad2744e6c9837d37b4155847f747" upstream="refs/heads/gfx-kernel.lnx.1.0.r52-rel"/>
+</manifest>
