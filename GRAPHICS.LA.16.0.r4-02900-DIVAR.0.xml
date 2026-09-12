@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
+  <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
+  <project remote="clo-la" name="platform/vendor/qcom/opensource/graphics-devicetree" path="vendor/qcom/opensource/graphics-devicetree" revision="20bc96ddbb513ab7916a4876efd4082f79358d8f" upstream="refs/heads/gfx-devicetree-oss.lnx.16.0.r1-rel"/>
+  <project remote="clo-la" name="platform/vendor/qcom/opensource/graphics-kernel" path="vendor/qcom/opensource/graphics-kernel" revision="5d9475284113b1e654b52c20b7e2e9f702da6f2b" upstream="refs/heads/gfx-kernel.lnx.16.0.r4-rel"/>
+</manifest>
